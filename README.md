@@ -19,7 +19,7 @@
 **Open to**
 
 - Affiliate whitepages / prelanders / lead-gen landings (Vanilla JS)
-- Brand sites and web apps (React, SvelteKit, Node, WordPress)
+- Brand sites and web apps (React/Next.js, SvelteKit, TypeScript, WordPress)
 - Verticals — all my commercial work so far is FinTech and high-risk funnels (investment, crypto). Open to others.
 
 ---

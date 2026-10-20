@@ -1,16 +1,16 @@
-### Affiliate Frontend Developer — Whitepages, Prelanders, Lead-Gen Landings
+### Fullstack Developer — Whitepages, Prelanders, Brand Sites, Web Apps
 
-I build whitepages, prelanders, and lead-gen landings for affiliate marketing — without libraries or site builders, in plain Vanilla JS / HTML / CSS.
+**Affiliate.** Whitepages, prelanders and lead-gen landings in plain Vanilla JS / HTML / CSS — no libraries, no site builders. Built for speed, and with a different footprint on each one: no two share their structure, class names or file names.
 
-For conventional web projects: React, SvelteKit, Express, WordPress.
+**Brand sites and web apps.** Headless WordPress read through Next.js, admin panels and client areas on React or SvelteKit, and the Express API and the server behind them.
 
 ---
 
 **Tech stack**
 
-- **Frontend:** JavaScript (ES6+), React, SvelteKit, HTML5, CSS/SCSS/LESS, BEM, Responsive Design
-- **Backend:** Node.js, Express, PHP, SQL, Nginx
-- **CMS:** WordPress / WooCommerce
+- **Frontend:** JavaScript (ES6+), TypeScript, React, Next.js, SvelteKit, HTML5, CSS/SCSS/LESS, BEM, Responsive Design, GSAP, Three.js
+- **Backend:** Node.js, Express, REST, JWT, PHP, SQL, Nginx
+- **CMS:** WordPress / WooCommerce, headless via WPGraphQL
 - **DevOps:** Git, Webpack, Vite, Netlify, Vercel, Render, Cloudinary, VPS
 
 ---
@@ -18,7 +18,7 @@ For conventional web projects: React, SvelteKit, Express, WordPress.
 **Open to**
 
 - Affiliate whitepages / prelanders / lead-gen landings (Vanilla JS)
-- Frontend / Full-Stack contract work (React, Node, WordPress)
+- Frontend / full-stack contract work (React, SvelteKit, Node, WordPress)
 - Remote, UTC+2
 
 ---

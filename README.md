@@ -9,9 +9,10 @@
 **Tech stack**
 
 - **Frontend:** JavaScript (ES6+), TypeScript, React, Next.js, SvelteKit, HTML5, CSS/SCSS/LESS, BEM, Responsive Design, GSAP, Three.js
-- **Backend:** Node.js, Express, REST, JWT, PHP, SQL, Nginx
+- **Backend:** Node.js, Express, REST, JWT, PHP, SQL
 - **CMS:** WordPress / WooCommerce, headless via WPGraphQL
-- **DevOps:** Git, Webpack, Vite, Netlify, Vercel, Render, Cloudinary, VPS
+- **Build:** Vite, Webpack, npm scripts, sharp image pipelines
+- **Deploy:** a VPS I set up myself (Nginx, own domain), Vercel, Netlify, Render, Cloudinary
 
 ---
 

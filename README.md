@@ -18,8 +18,8 @@
 **Open to**
 
 - Affiliate whitepages / prelanders / lead-gen landings (Vanilla JS)
-- Frontend / full-stack contract work (React, SvelteKit, Node, WordPress)
-- Remote, UTC+2
+- Frontend / full-stack contract work (React, SvelteKit, Node, WordPress) — remote, UTC+2
+- Verticals — all my commercial work so far is FinTech and high-risk funnels (investment, crypto). Open to others.
 
 ---
 

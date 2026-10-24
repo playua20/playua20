@@ -1,6 +1,8 @@
 ### Fullstack Developer — Whitepages, Prelanders, Brand Sites, Web Apps
 
-**Affiliate.** Whitepages, prelanders and lead-gen landings in plain Vanilla JS / HTML / CSS — no libraries, no site builders. Built for speed, and with a different footprint on each one: no two share their structure, class names or file names.
+**1.5+ years in affiliate frontend — 150+ projects delivered for Tier-1/2 GEOs.**
+
+**Affiliate.** Whitepages, prelanders and lead-gen landings in plain Vanilla JS / HTML / CSS — no libraries, no site builders. Built for speed, and with a different footprint on each one: no two share their structure, class names or file names. The form is what these pages exist for, so it is built rather than declared: inline validation, phone output in E.164, a honeypot and a time trap against bots. Any tier, any GEO, in the market's own language.
 
 **Brand sites and web apps.** Headless WordPress read through Next.js, admin panels and client areas on React or SvelteKit, and the Express API and the server behind them.
 
